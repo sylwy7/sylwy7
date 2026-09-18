@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-- 🕹️ I build **MoonLoader / mimgui / SA-MP** scripts and quality-of-life helpers for RPG communities (e.g., *RPG.B-ZONE.RO*).
+- 🕹️ I build **MoonLoader / mimgui / SA-MP** scripts and other stuff.
 - 💬 *"I just build random scripts while bored, that's all."*
 
 ---
